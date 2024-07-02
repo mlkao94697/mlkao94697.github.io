@@ -20,11 +20,12 @@ author: Malia Kao
 ###############################################
 
 navbar-links:
+  Author's home: "https://mlkao94697.github.io/"
+ # Research: "research"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
- # Author's home: "https://deanattali.com"
+ # Resources:
+ #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+ #   - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
