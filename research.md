@@ -15,3 +15,7 @@ My PhD work is mainly focused on using dead stars called white dwarfs to probe s
 ### Machine Learning and White Dwarfs in Gaia DR3
 
 ### Photometric Observations of Crystallizing Pulsating White Dwarfs
+
+## Past Research
+
+### Benchmarking the Solar Interior in a Lab
