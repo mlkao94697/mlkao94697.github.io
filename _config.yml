@@ -21,7 +21,7 @@ author: Malia Kao
 
 navbar-links:
   Author's home: "https://mlkao94697.github.io/"
- # Research: "research"
+  Research: "research"
   About Me: "aboutme"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
