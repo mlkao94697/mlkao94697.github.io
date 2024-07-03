@@ -23,7 +23,7 @@ navbar-links:
   Home: "https://mlkao94697.github.io/"
   Research: "research"
   Publications: "publications"
-  About Me: "aboutme"
+ # About Me: "aboutme"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
