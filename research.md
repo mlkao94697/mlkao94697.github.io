@@ -2,7 +2,7 @@
 layout: page
 title: Research
 subtitle: White Dwarf Stars
-cover-img: ["/assets/img/domes.jpg":"Credit: McDonald Observatory, The University of Texas at Austin"]
+cover-img: ["/assets/img/domes.png":"Credit: McDonald Observatory, The University of Texas at Austin"]
 ---
 
 My PhD work is mainly focused on using dead stars called white dwarfs to probe stellar and planetary interiors. My research encompasses big questions like: 
