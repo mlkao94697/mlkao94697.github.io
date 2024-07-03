@@ -20,6 +20,7 @@ All stars that are found to host exoplanets (so far) are intermediate to low mas
 - #### Follow-up Spectroscopy of the Polluted White Dwarfs at HET
 
   ![HET spectrum](/assets/img/PC20_1.png)
+  *HET spectrum*
 
 Most white dwarfs are around 60% the mass of the Sun, but there are some rare ultra-massive white dwarfs that approach or exceed one solar mass. As white dwarfs cool, their cores begin to crystallize and they eventually transform into Earth-sized diamonds. Since higher mass white dwarfs have higher central densities, the point at which they begin to crystallize occurs much sooner in their cooling lifetimes than for a "normal" white dwarf. _**I am interested in studying the interior structure of the ultra-massive white dwarfs to investigate how crystallization affects the cooling process.**_
 
