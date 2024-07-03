@@ -13,7 +13,9 @@ My PhD work is mainly focused on using dead stars called white dwarfs to probe s
 
 ## Current Research
 
-All stars that are found to host exoplanets (so far) are intermediate to low mass stars, meaning they are approximately less than ten times as massive as the Sun. The evolutionary pathway for these stars, which make up about 95% of all stars in the universe, ulitmately ends at the white dwarf phase. Incredibly, some white dwarfs have been found with heavy metals in their atmospheres, signifying that they are actively swallowing up rocky debris from a destroyed planet or planetesimal. _I am interested in studying these white dwarfs whose atmospheres are "polluted" by rocky material to understand the geological and evolutionary diversity of planets across our Galaxy._ 
+All stars that are found to host exoplanets (so far) are intermediate to low mass stars, meaning they are approximately less than ten times as massive as the Sun. The evolutionary pathway for these stars, which make up about 95% of all stars in the universe, ulitmately ends at the white dwarf phase. Incredibly, some white dwarfs have been found with heavy metals in their atmospheres, signifying that they are actively swallowing up rocky debris from a destroyed planet or planetesimal. _**I am interested in studying these white dwarfs whose atmospheres are "polluted" by rocky material to understand the geological and evolutionary diversity of planets across our Galaxy.**_ 
+
+Most white dwarfs are around 60% the mass of the Sun, but there are some rare ultra-massive white dwarfs that approach or exceed one solar mass. These white dwarfs can provide us with clues about the evolutionary process of the progenitor star, whether it evolved as a single, massive star, or if it merged with another star at some point during its lifetime. 
 
 
 ### Applying Machine Learning to White Dwarfs in Gaia DR3
